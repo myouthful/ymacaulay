@@ -1,2 +1,2 @@
 # ymacaulay
-python-class
+python-class.
